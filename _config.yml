@@ -14,7 +14,8 @@ description              : &description "Professor on Software Engineering at Wu
 url                      : https://liangpengwhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liangpengwhu/liangpengwhu.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.
+"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Peng Liang"
-  avatar           : "https://www.cs.rug.nl/search/uploads/People/PengLiang.jpg"
+  avatar           : "profile.png"
   bio              : "Professor on Software Engineering at Wuhan University"
   location         : "Wuhan, China"
   employer         :
